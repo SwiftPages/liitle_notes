@@ -109,7 +109,6 @@ class _HomePageState extends State<HomePage> {
     "assets/16 1.png",
     "assets/17 1.png",
     "assets/18 1.png",
-    "assets/19 1.png",
     "assets/20 1.png",
   ];
 
