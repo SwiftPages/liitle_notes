@@ -151,6 +151,8 @@ class _HomePageState extends State<HomePage> {
     "You look like you snuck onto earth 🐽",
     "I wish your parents loved you more as a child 🥀",
     "Just because your parents made a mistake doesn't mean I gotta fix you 💖",
+    "You’re as useful as a white crayon 💗",
+    "You're the reason shampoo has instructions 🎀",
   ];
 
   late String randomImage;
