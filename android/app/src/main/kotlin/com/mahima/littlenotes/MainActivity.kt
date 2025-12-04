@@ -1,4 +1,4 @@
-package com.example.little_notes
+package com.mahima.littlenotes
 
 import io.flutter.embedding.android.FlutterActivity
 
